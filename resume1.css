@@ -1,0 +1,50 @@
+body{
+    background-color:antiquewhite;
+}
+h1{
+    color:black;
+    font-family: arial;
+}
+h2{
+    color:black
+}
+table{
+    color:darkolivegreen
+}
+p{
+    color:darkolivegreen
+}
+ul{
+    color:darkolivegreen;
+}
+#about{
+    background-color:cornsilk;
+    padding: 0px 30px 0px 30px;
+}
+#skills{
+    background-color:bisque;
+    padding: 0px 30px 0px 30px;
+}
+#edu{
+    background-color:beige;
+    padding: 0px 30px 0px 30px;
+}
+#exp{
+    background-color:bisque;
+    padding: 0px 30px 0px 30px;
+}
+#proj{
+    background-color:beige;
+    padding: 0px 30px 0px 30px;
+}
+#cinfo{
+    background-color: bisque;
+    padding: 0px 30px 0px 30px;
+}
+#res{
+    background-color:bisque
+}
+
+.profilePic {
+    margin-left: 600px;
+}
